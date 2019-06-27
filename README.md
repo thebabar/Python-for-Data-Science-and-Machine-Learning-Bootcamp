@@ -1,2 +1,2 @@
-# Python-for-Data-Science-Machine-Learning-Bootcamp
-Use of NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
